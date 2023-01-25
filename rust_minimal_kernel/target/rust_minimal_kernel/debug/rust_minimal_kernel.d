@@ -1,0 +1,1 @@
+/home/arch/Repositories/my-repositories/github/rust-minimal-kernel/rust_minimal_kernel/target/rust_minimal_kernel/debug/rust_minimal_kernel: /home/arch/Repositories/my-repositories/github/rust-minimal-kernel/rust_minimal_kernel/src/main.rs
