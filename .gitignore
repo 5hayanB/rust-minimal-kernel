@@ -1,0 +1,2 @@
+rust_minimal_kernel/target/
+rust_minimal_kernel/Cargo.lock
